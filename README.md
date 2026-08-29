@@ -44,7 +44,7 @@ Scikit-learn · HuggingFace
 
 **ProTunnelML** — ML-enhanced protein tunnel prediction web app  
 Built directly on data generated from this research.  
-→ github.com/[your-username]/ProTunnelML
+→ github.com/soham-bhandare-0406/ProTunnelML
 
 ## Contact
 
